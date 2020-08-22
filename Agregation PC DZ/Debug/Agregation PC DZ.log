@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Hp\source\repos\Agregation PC DZ\Agregation PC DZ\Source.cpp(14,1): warning C4305: инициализация: усечение из "int" в "bool"
+C:\Users\Hp\source\repos\Agregation PC DZ\Agregation PC DZ\Source.cpp(43,1): warning C4305: инициализация: усечение из "int" в "bool"
+C:\Users\Hp\source\repos\Agregation PC DZ\Agregation PC DZ\Source.cpp(148,1): warning C4305: инициализация: усечение из "int" в "bool"
+C:\Users\Hp\source\repos\Agregation PC DZ\Agregation PC DZ\Source.cpp(287,47): warning C4305: аргумент: усечение из "double" в "float"
+  Agregation PC DZ.vcxproj -> C:\Users\Hp\source\repos\Agregation PC DZ\Debug\Agregation PC DZ.exe
